@@ -7,6 +7,7 @@
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
 [![GitHub followers](https://img.shields.io/github/followers/jujon?style=social)](https://github.com/jujon)
 [![GitHub watchers](https://img.shields.io/github/watchers/jujon/bbdd?style=social)]([https://github.com/jujon])
+https://img.shields.io/badge/Actitud-Proyecto%20en%20curso-blue
 
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 ## Hi there 👋
